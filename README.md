@@ -1,7 +1,7 @@
 # WorthyPar
 
 # Data and Workload Prepare
-* download TPC-DS, and run 'python main.py'
+* download TPC-DS, and run  `python main.py`
 
 # Train Hybrid Partition Advisor
 run python partition_agents.py

@@ -1,5 +1,5 @@
 # WorthyPar
-
+WorthyPar is a workload-aware data hybrid partitioning advisor with deep reinforcement learning.
 # Data and Workload Prepare
 * download TPC-DS
 * run  `python main.py`

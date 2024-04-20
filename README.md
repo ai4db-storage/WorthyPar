@@ -29,10 +29,7 @@ pip install -r requirements.txt
 - IMDB           https://gitcode.com/gregrahn/join-order-benchmark/blob/master/README.md
 (2) Install PostgreSQL 15.4, create databases tpcds, tpch, and imdb, and import data to the database
     Execute the.sql file in the data folder to create the table and import the data
-    Replace the path of the copy instruction in the import.sql file with the location of the generated data
-- TPC-H : \i data/tpch/import.sql
-- TPC-DS: \i data/tpcds/import.sql
-- IMDB  : \i data/imdb/import.sql        
+    Replace the path of the copy instruction in the import.sql file with the location of the generated data      
 # Execution
 - `main.py`: to generate hybrid partitioning strategy
 # Workload Forecasting
